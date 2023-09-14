@@ -1,0 +1,89 @@
+{
+    "from-to": "Elements from {first} to {last} (total {totalRecords})",
+    "new" : "New",
+    "search": "Search",
+    "export": "Export",
+    "validate": "Validate",
+    "search": "Seach...",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "next": "Next",
+    "yes": "Yes",
+    "no": "No",
+    "actions": "Actions",
+    "confirm": "Confirm",
+    "creation": "Creation",
+    "list": "List",
+
+
+    "products":{
+        "productId": "Product id",
+        "productIdMin": "Product id Min",
+        "productIdMax": "Product id Max",
+        "categories": "Categories",
+        "categoriesPlaceHolder": "Select a Categories",
+        "categoriesPlaceHolderFilter": "Search by Categories",
+        "brands": "Brands",
+        "brandsPlaceHolder": "Select a Brands",
+        "brandsPlaceHolderFilter": "Search by Brands",
+        "prixVente": "Prix vente",
+        "prixVenteMin": "Prix vente Min",
+        "prixVenteMax": "Prix vente Max",
+        "name": "Name",
+        "image": "Image",
+        "commentaire": "Commentaire",
+        "code": "Code",
+        "quantite": "Quantite",
+        "quantiteMin": "Quantite Min",
+        "quantiteMax": "Quantite Max",
+        "prixPromo": "Prix promo",
+        "prixPromoMin": "Prix promo Min",
+        "prixPromoMax": "Prix promo Max",
+        "prixRevendeur": "Prix revendeur",
+        "prixRevendeurMin": "Prix revendeur Min",
+        "prixRevendeurMax": "Prix revendeur Max",
+        "quantiteMarrakech": "Quantite marrakech",
+        "quantiteMarrakechMin": "Quantite marrakech Min",
+        "quantiteMarrakechMax": "Quantite marrakech Max",
+        "quantiteRabat": "Quantite rabat",
+        "quantiteRabatMin": "Quantite rabat Min",
+        "quantiteRabatMax": "Quantite rabat Max",
+        "barCode": "Bar code",
+        "products": "Products",
+        "tabPan": "Products",
+        "header": "Liste des products",
+        "deleteProductsConfirmationMessage": "Are you sure you want to delete products",
+        "deleteProductssConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "brands":{
+        "name": "Name",
+        "brands": "Brands",
+        "tabPan": "Brands",
+        "header": "Liste des brands",
+        "deleteBrandsConfirmationMessage": "Are you sure you want to delete brands",
+        "deleteBrandssConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+
+    "categories":{
+        "name": "Name",
+        "sortby": "Sortby",
+        "sortbyMin": "Sortby Min",
+        "sortbyMax": "Sortby Max",
+        "categorieId": "Categorie id",
+        "categorieIdMin": "Categorie id Min",
+        "categorieIdMax": "Categorie id Max",
+        "categories": "Categories",
+        "tabPan": "Categories",
+        "header": "Liste des categories",
+        "deleteCategoriesConfirmationMessage": "Are you sure you want to delete categories",
+        "deleteCategoriessConfirmationMessage": "Are you sure you want to delete the selected elements"
+    },
+
+"appName": "GED"
+}
+
+
